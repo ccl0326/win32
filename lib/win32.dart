@@ -131,6 +131,7 @@ export 'src/win32/winscard.g.dart';
 export 'src/win32/winspool.g.dart';
 export 'src/win32/wlanapi.g.dart';
 export 'src/win32/xinput1_4.g.dart';
+export 'src/win32/wtsapi32.g.dart';
 
 // API sets are used to export recent C-style APIs
 export 'src/win32/api_ms_win_core_apiquery_l2_1_0.g.dart';
